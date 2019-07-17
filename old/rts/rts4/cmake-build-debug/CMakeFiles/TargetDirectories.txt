@@ -1,0 +1,3 @@
+/run/media/metalleg/Local disk/Documents/CLionProjects/rts4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/metalleg/Local disk/Documents/CLionProjects/rts4/cmake-build-debug/CMakeFiles/rts4.dir
+/run/media/metalleg/Local disk/Documents/CLionProjects/rts4/cmake-build-debug/CMakeFiles/edit_cache.dir

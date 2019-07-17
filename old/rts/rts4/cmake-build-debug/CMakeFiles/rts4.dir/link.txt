@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/rts4.dir/main.c.o  -o rts4 

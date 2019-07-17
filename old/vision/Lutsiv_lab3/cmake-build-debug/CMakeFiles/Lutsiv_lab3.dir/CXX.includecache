@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vitakadabr/Documents/CLionProjects/Lutsiv_lab3/PCX_IO.h
+
+/home/vitakadabr/Documents/CLionProjects/Lutsiv_lab3/main.cpp
+pcxlib.cpp
+/home/vitakadabr/Documents/CLionProjects/Lutsiv_lab3/pcxlib.cpp
+iostream
+-
+cmath
+-
+
+/home/vitakadabr/Documents/CLionProjects/Lutsiv_lab3/pcxlib.cpp
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+PCX_IO.h
+/home/vitakadabr/Documents/CLionProjects/Lutsiv_lab3/PCX_IO.h
+

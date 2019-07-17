@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/prokof_threads.dir/main.c.o  -o prokof_threads 

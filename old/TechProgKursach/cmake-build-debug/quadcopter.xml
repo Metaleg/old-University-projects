@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hell>
+	<mil_civ>military</mil_civ>
+	<type>infernal</type>
+	<weight>666</weight>
+	<engines>6</engines>
+	<engines_type>blood</engines_type>
+	<wings>0</wings>
+	<wings_location>none</wings_location>
+	<chassis>none</chassis>
+	<speed>666</speed>
+	<landing_type>Vertical take-off</landing_type>
+	<control>Remote control</control>
+	<crew>0</crew>
+	<year>6666</year>
+	<weapon>great apocalypse weapon</weapon>
+</Hell>
+<Kvaker-figaker>
+	<mil_civ>military</mil_civ>
+	<type>duckling</type>
+	<weight>11</weight>
+	<engines>4</engines>
+	<engines_type>super-plasma-engines</engines_type>
+	<wings>0</wings>
+	<wings_location>none</wings_location>
+	<chassis>none</chassis>
+	<speed>111</speed>
+	<landing_type>Vertical take-off</landing_type>
+	<control>Remote control</control>
+	<crew>0</crew>
+	<year>1111</year>
+	<weapon>big-fat-beak</weapon>
+</Kvaker-figaker>

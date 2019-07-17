@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/accelerometr.dir/main.c.o  -o accelerometr 

@@ -1,0 +1,3 @@
+/media/vitakadabr/Local disk/Documents/CLionProjects/cpuid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/vitakadabr/Local disk/Documents/CLionProjects/cpuid/cmake-build-debug/CMakeFiles/cpuid.dir
+/media/vitakadabr/Local disk/Documents/CLionProjects/cpuid/cmake-build-debug/CMakeFiles/edit_cache.dir

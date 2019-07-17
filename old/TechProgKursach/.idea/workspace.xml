@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="TechProgKursach" targetName="TechProgKursach" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bed49461-5149-4acb-bff8-ff23df8d55a5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1329608015">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="1" />
+          <entry key="h" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TechProgKursach" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interface.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aircraft.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aircraft.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4148">
+              <caret line="244" column="28" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoadSave.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LoadSave.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>comb</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake-build-debug/PassengerPlaneBuilder.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/WarPlaneBuilder.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/HelicopterBuilder.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/QuadcopterBuilder.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/Director.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/PlaneBuilder.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/PassengerPlaneBuilder.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/WarPlaneBuilder.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/HelicopterBuilder.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/QuadcopterBuilder.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/PlaneBuilder.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/HelicopterBuilder.h" />
+        <option value="$PROJECT_DIR$/WarPlaneBuilder.h" />
+        <option value="$PROJECT_DIR$/QuadcopterBuilder.h" />
+        <option value="$PROJECT_DIR$/Director.cpp" />
+        <option value="$PROJECT_DIR$/WarPlaneBuilder.cpp" />
+        <option value="$PROJECT_DIR$/PlaneBuilder.cpp" />
+        <option value="$PROJECT_DIR$/PassengerPlaneBuilder.h" />
+        <option value="$PROJECT_DIR$/PlaneBuilder.h" />
+        <option value="$PROJECT_DIR$/Plane.cpp" />
+        <option value="$PROJECT_DIR$/Plane.h" />
+        <option value="$PROJECT_DIR$/PassengerPlaneBuilder.cpp" />
+        <option value="$PROJECT_DIR$/CombatAircraft.h" />
+        <option value="$PROJECT_DIR$/Director.h" />
+        <option value="$PROJECT_DIR$/CombatAircraft.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/ReadWrite.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/ReadWrite.h" />
+        <option value="$PROJECT_DIR$/ReadWrite.cpp" />
+        <option value="$PROJECT_DIR$/ReadWrite.h" />
+        <option value="$PROJECT_DIR$/Execution.h" />
+        <option value="$PROJECT_DIR$/Execution.cpp" />
+        <option value="$PROJECT_DIR$/Interface.h" />
+        <option value="$PROJECT_DIR$/AircraftBuilder.cpp" />
+        <option value="$PROJECT_DIR$/HelicopterBuilder.cpp" />
+        <option value="$PROJECT_DIR$/PassengerAircraftBuilder.cpp" />
+        <option value="$PROJECT_DIR$/CombatAircraftBuilder.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Validator.h" />
+        <option value="$PROJECT_DIR$/Validator.cpp" />
+        <option value="$PROJECT_DIR$/Aircraft.cpp" />
+        <option value="$PROJECT_DIR$/CombatAircraftBuilder.h" />
+        <option value="$PROJECT_DIR$/PassengerAircraftBuilder.h" />
+        <option value="$PROJECT_DIR$/LoadSave.h" />
+        <option value="$PROJECT_DIR$/Aircraft.h" />
+        <option value="$PROJECT_DIR$/AircraftBuilder.h" />
+        <option value="$PROJECT_DIR$/LoadSave.cpp" />
+        <option value="$PROJECT_DIR$/QuadcopterBuilder.cpp" />
+        <option value="$PROJECT_DIR$/Interface.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1857" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TechProgKursach" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TechProgKursach" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/VirtualBox VMs/Ubuntu 18.04 LTS/shared_folder/catkin_ws/src/gyroscope" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TechProgKursach">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TechProgKursach" RUN_TARGET_NAME="TechProgKursach" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechProgKursach" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TechProgKursach" TARGET_NAME="TechProgKursach" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TechProgKursach" RUN_TARGET_NAME="TechProgKursach">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.TechProgKursach" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed49461-5149-4acb-bff8-ff23df8d55a5" name="Default" comment="" />
+      <created>1521624387236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521624387236</updated>
+      <workItem from="1521624388600" duration="8222000" />
+      <workItem from="1521651341994" duration="5781000" />
+      <workItem from="1521730803315" duration="2699000" />
+      <workItem from="1521733554967" duration="384000" />
+      <workItem from="1521734215905" duration="3685000" />
+      <workItem from="1521812384378" duration="11413000" />
+      <workItem from="1521826789308" duration="1617000" />
+      <workItem from="1521828432518" duration="1186000" />
+      <workItem from="1521878739027" duration="16000" />
+      <workItem from="1521879118894" duration="3015000" />
+      <workItem from="1521896523087" duration="1181000" />
+      <workItem from="1521907551940" duration="2057000" />
+      <workItem from="1521909629042" duration="791000" />
+      <workItem from="1521911700736" duration="90000" />
+      <workItem from="1521911989011" duration="520000" />
+      <workItem from="1521912543732" duration="4393000" />
+      <workItem from="1521917663674" duration="78000" />
+      <workItem from="1521919421210" duration="579000" />
+      <workItem from="1521923258527" duration="750000" />
+      <workItem from="1521972938950" duration="3506000" />
+      <workItem from="1521977501341" duration="1826000" />
+      <workItem from="1521979508216" duration="12029000" />
+      <workItem from="1522005017808" duration="5768000" />
+      <workItem from="1522011987816" duration="68000" />
+      <workItem from="1522059293439" duration="1529000" />
+      <workItem from="1522078430687" duration="4484000" />
+      <workItem from="1522091338219" duration="2426000" />
+      <workItem from="1522130780267" duration="5128000" />
+      <workItem from="1522159084646" duration="14044000" />
+      <workItem from="1522219356623" duration="7798000" />
+      <workItem from="1522230893898" duration="25000" />
+      <workItem from="1522231170335" duration="240000" />
+      <workItem from="1522233355748" duration="3265000" />
+      <workItem from="1522241510856" duration="1246000" />
+      <workItem from="1522243857533" duration="17718000" />
+      <workItem from="1522312614451" duration="3763000" />
+      <workItem from="1522329195446" duration="19669000" />
+      <workItem from="1522351584393" duration="1301000" />
+      <workItem from="1522352973059" duration="398000" />
+      <workItem from="1522391058607" duration="2306000" />
+      <workItem from="1522393753584" duration="4647000" />
+      <workItem from="1522400251892" duration="1383000" />
+      <workItem from="1522406758319" duration="24897000" />
+      <workItem from="1522432839992" duration="983000" />
+      <workItem from="1522434288563" duration="1555000" />
+      <workItem from="1522488533737" duration="1555000" />
+      <workItem from="1522524090897" duration="3000" />
+      <workItem from="1522613115211" duration="25000" />
+      <workItem from="1522613153668" duration="994000" />
+      <workItem from="1522661511885" duration="19000" />
+      <workItem from="1522661602455" duration="86000" />
+      <workItem from="1522663751231" duration="578000" />
+      <workItem from="1522701166349" duration="630000" />
+      <workItem from="1523030456056" duration="6966000" />
+      <workItem from="1523098241677" duration="2000" />
+      <workItem from="1523105095401" duration="6554000" />
+      <workItem from="1523111769705" duration="10936000" />
+      <workItem from="1523173933974" duration="1394000" />
+      <workItem from="1523386359099" duration="3826000" />
+      <workItem from="1523427185217" duration="4790000" />
+      <workItem from="1523459712383" duration="8830000" />
+      <workItem from="1523470130774" duration="8042000" />
+      <workItem from="1523502529929" duration="3064000" />
+      <workItem from="1523514315311" duration="2065000" />
+      <workItem from="1523528373601" duration="56000" />
+      <workItem from="1523552961366" duration="42000" />
+      <workItem from="1523886489196" duration="12573000" />
+      <workItem from="1523904315383" duration="1052000" />
+      <workItem from="1523946046114" duration="63000" />
+      <workItem from="1524075617386" duration="1955000" />
+      <workItem from="1524131290322" duration="163000" />
+      <workItem from="1524136416008" duration="18000" />
+      <workItem from="1524411660833" duration="768000" />
+      <workItem from="1524414243425" duration="3567000" />
+      <workItem from="1524429230007" duration="605000" />
+      <workItem from="1524429932469" duration="2278000" />
+      <workItem from="1524462313757" duration="6521000" />
+      <workItem from="1524487371129" duration="5798000" />
+      <workItem from="1525022213901" duration="140000" />
+      <workItem from="1525024045339" duration="7000" />
+      <workItem from="1536853777664" duration="236000" />
+      <workItem from="1536855242950" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="286689000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="36" width="1920" height="1044" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4947644" visible="true" weight="0.22683705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5052356" side_tool="true" weight="0.22270742" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1764706" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.539267" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.38017428" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.09195402" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.3291536" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Director.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/PassengerPlaneBuilder.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/WarPlaneBuilder.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/HelicopterBuilder.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/QuadcopterBuilder.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/PlaneBuilder.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/PassengerPlaneBuilder.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/WarPlaneBuilder.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/HelicopterBuilder.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Director.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/PlaneBuilder.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/QuadcopterBuilder.cpp" />
+    <entry file="file:///usr/include/c++/5/ext/atomicity.h" />
+    <entry file="file:///usr/include/c++/5/bits/stream_iterator.h" />
+    <entry file="file:///usr/include/c++/5/bits/stl_iterator.h" />
+    <entry file="file:///usr/include/c++/5/bits/stl_list.h" />
+    <entry file="file:///usr/include/c++/5/ext/new_allocator.h" />
+    <entry file="file:///usr/include/boost/throw_exception.hpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/ReadWrite.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/ReadWrite.cpp" />
+    <entry file="file://$PROJECT_DIR$/Execution.cpp" />
+    <entry file="file://$PROJECT_DIR$/Execution.h" />
+    <entry file="file://$PROJECT_DIR$/AircraftBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" lean-forward="true" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PassengerAircraftBuilder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="32" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PassengerAircraftBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="49" column="48" lean-forward="true" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CombatAircraftBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="50" column="9" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelicopterBuilder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelicopterBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="45" column="1" lean-forward="true" selection-end-line="74" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuadcopterBuilder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="33" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuadcopterBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="37" column="38" lean-forward="true" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Director.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="40" lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="13" column="21" lean-forward="true" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="8" lean-forward="true" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Director.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CombatAircraftBuilder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AircraftBuilder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aircraft.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aircraft.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="28" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadSave.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadSave.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

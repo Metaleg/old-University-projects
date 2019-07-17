@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/linux_daemon.dir/daemon.c.o CMakeFiles/linux_daemon.dir/work_with_config.c.o  -o linux_daemon 

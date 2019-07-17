@@ -1,0 +1,3 @@
+5001, /run/media/metalleg/Local disk/Documents/CLionProjects/apps_for_daemon/app1/app1, 18
+5002, /run/media/metalleg/Local disk/Documents/CLionProjects/apps_for_daemon/app2/app2, 18
+5003, /run/media/metalleg/Local disk/Documents/CLionProjects/apps_for_daemon/app3/app3, 18

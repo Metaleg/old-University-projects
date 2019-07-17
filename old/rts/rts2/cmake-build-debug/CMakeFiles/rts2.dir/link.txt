@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/rts2.dir/main.c.o  -o rts2 

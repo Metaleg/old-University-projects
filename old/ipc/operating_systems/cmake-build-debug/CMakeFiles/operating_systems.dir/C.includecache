@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/CLionProjects/operating_systems/main.c
+sys/types.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,68 @@
+/*
+
+*/
+/*-------------------------------- Вариант 3 ----------------------------------
+| Зашифруйте высказывание Козьмы Пруткова: На дне каждого сердца есть осадок. |
+| Ключ: количество букв в Вашем имени                                         |
+| Длина блока 16 бит                                                          |
+| Образующая функция: циклический битовый сдвиг влево                         |
+-----------------------------------------------------------------------------*//*
+
+
+#define SIZE 34
+#define CNS 6 // число символов в имени
+#define L_shift(X,N) (X << N) | (X >> (8 - N)) // циклический сдвиг X влево на N
+
+void print_str(block *str);
+
+int main() {
+    char16_t input[SIZE + 1] = u"На дне каждого сердца есть осадок.";
+    block str[SIZE]; // Структура из 2-х unsigned char и функциями вывода
+    for (int i = 0; i < SIZE / 2; ++i) {
+        // ASKII_S(...) возвращает номер символа в таблице ASKII, по
+        // символу из Unicode (при наличие данного символа в ASKII)
+        block LR(ASCII_S(input[i * 2]), ASCII_S(input[i * 2 + 1]));
+        str[i] = LR;
+    }
+    std::cout << "Исходная строка:" << std::endl;
+    print_str(str);
+
+    //Шифрование
+    for(int i = 0; i < SIZE/2; ++i) {
+        block LR = str[i];
+        for(int j = 0;j < 16; ++j) {
+            unsigned char fun;
+            fun = L_shift(LR[0], CNS);
+            fun ^= LR[1];
+            LR = block(fun,LR[0]);
+        }
+        str[i] = LR;
+    }
+    std::cout << "Результат шифрования:" << std::endl;
+    print_str(str);
+
+    //Дешифрование
+    for(int i = 0; i < SIZE/2; ++i) {
+        block LR = str[i];
+        for(int j = 0;j < 16; ++j) {
+            unsigned char fun;
+            fun = L_shift(LR[1], CNS);
+            fun ^= LR[0];
+            LR = block(LR[1],fun);
+        }
+        str[i] = LR;
+    }
+    std::cout << "Результат дешифрования:" << std::endl;
+    print_str(str);
+    return 0;
+}
+
+void print_str(block *str){
+    std::cout << "№L\t- L:  \t№R\t- R: \t(bit: |<-L-->||<--R->| )"<< std::endl;
+    for (int i = 0; i < SIZE/2; ++i){
+        std::cout << i*2 << "\t- " << (int)str[i][0] << " \t"
+                  << i*2+1 << "\t- " << (int)str[i][1] << "\t(bit: "
+                  << str[i] << " )"<< std::endl;
+    }
+    std::cout << std::endl;
+}*/

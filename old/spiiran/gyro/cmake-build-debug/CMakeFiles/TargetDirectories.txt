@@ -1,0 +1,3 @@
+/home/vitakadabr/Documents/CLionProjects/gyro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vitakadabr/Documents/CLionProjects/gyro/cmake-build-debug/CMakeFiles/gyro.dir
+/home/vitakadabr/Documents/CLionProjects/gyro/cmake-build-debug/CMakeFiles/edit_cache.dir

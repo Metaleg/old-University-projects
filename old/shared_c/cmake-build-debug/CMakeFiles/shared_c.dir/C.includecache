@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/shared_c/main.c
+unistd.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

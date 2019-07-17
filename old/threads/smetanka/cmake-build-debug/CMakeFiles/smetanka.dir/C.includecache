@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/CLionProjects/smetanka/main.c
+dirent.h
+-
+stdio.h
+-
+string.h
+-
+pthread.h
+-
+unistd.h
+-
+

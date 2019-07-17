@@ -1,0 +1,3 @@
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/cmake-build-debug/CMakeFiles/TechProgKursach.dir

@@ -1,0 +1,3 @@
+/home/metalleg/CLionProjects/madgwick/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/metalleg/CLionProjects/madgwick/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/metalleg/CLionProjects/madgwick/cmake-build-debug/CMakeFiles/madgwick.dir

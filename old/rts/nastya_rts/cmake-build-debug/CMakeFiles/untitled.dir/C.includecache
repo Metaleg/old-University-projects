@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/nastya_rts/main.c
+stdio.h
+-
+pthread.h
+-
+stdlib.h
+-
+zconf.h
+-
+stdio.h
+-
+sys/mman.h
+-
+fcntl.h
+-
+sys/wait.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+

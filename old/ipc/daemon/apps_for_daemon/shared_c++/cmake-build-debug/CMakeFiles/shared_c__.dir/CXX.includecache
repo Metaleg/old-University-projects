@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/apps_for_daemon/shared_c++/main.cpp
+iostream
+-
+iomanip
+-
+

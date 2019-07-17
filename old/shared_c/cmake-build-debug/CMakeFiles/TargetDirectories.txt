@@ -1,0 +1,3 @@
+/run/media/metalleg/Local disk/Documents/CLionProjects/shared_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/metalleg/Local disk/Documents/CLionProjects/shared_c/cmake-build-debug/CMakeFiles/shared_c.dir
+/run/media/metalleg/Local disk/Documents/CLionProjects/shared_c/cmake-build-debug/CMakeFiles/edit_cache.dir

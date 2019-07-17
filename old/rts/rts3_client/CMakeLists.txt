@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(rts3_client C)
+
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -lrt")
+add_executable(rts3_client main.c)

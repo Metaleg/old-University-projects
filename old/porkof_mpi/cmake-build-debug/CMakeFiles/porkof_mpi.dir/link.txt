@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/porkof_mpi.dir/main.c.o  -o porkof_mpi 

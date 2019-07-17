@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stepik.dir/main.cpp.o  -o stepik 

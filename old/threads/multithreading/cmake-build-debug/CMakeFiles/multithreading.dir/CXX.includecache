@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/CLionProjects/multithreading/main.cpp
+dirent.h
+-
+iostream
+-
+fstream
+-
+cstring
+-
+thread
+-
+ctime
+-
+unistd.h
+-
+

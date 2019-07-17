@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vitakadabr/Documents/CLionProjects/gyro/main.c
+stdio.h
+-
+stdlib.h
+-
+linux/i2c-dev.h
+-
+sys/ioctl.h
+-
+fcntl.h
+-
+sys/types.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+linux/i2c-dev.h
+-
+sys/ioctl.h
+-
+fcntl.h
+-
+sys/types.h
+-
+unistd.h
+-
+sys/wait.h
+-
+

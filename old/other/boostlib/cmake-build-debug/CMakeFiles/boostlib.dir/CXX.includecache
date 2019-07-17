@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/CLionProjects/boostlib/hana.cpp
+boost/hana.hpp
+-
+boost/hana/ext/boost/mpl.hpp
+-
+boost/hana/ext/std.hpp
+-
+boost/mpl/lambda.hpp
+-
+boost/mpl/placeholders.hpp
+-
+boost/mpl/quote.hpp
+-
+iostream
+-
+type_traits
+-
+
+/home/metalleg/CLionProjects/boostlib/main.cpp
+cstring
+-
+type_traits
+-
+
+/home/metalleg/CLionProjects/boostlib/xmlparser.cpp
+iostream
+-
+boost/property_tree/ptree.hpp
+-
+boost/property_tree/xml_parser.hpp
+-
+boost/foreach.hpp
+-
+utility
+-
+set
+-
+

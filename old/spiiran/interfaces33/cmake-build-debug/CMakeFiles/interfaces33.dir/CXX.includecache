@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/interfaces33/imu.cpp
+imu.h
+/run/media/metalleg/Local disk/Documents/CLionProjects/interfaces33/imu.h
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/interfaces33/imu.h
+linux/i2c-dev.h
+-
+sys/ioctl.h
+-
+fcntl.h
+-
+iostream
+-
+cmath
+-
+unistd.h
+-
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/interfaces33/main.cpp
+imu.h
+/run/media/metalleg/Local disk/Documents/CLionProjects/interfaces33/imu.h
+

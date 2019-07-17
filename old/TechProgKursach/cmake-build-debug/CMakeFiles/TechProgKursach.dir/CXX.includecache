@@ -1,0 +1,124 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Aircraft.cpp
+Aircraft.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Aircraft.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Aircraft.h
+Validator.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Validator.h
+iostream
+-
+iomanip
+-
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.cpp
+AircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+Aircraft.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Aircraft.h
+memory
+-
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/CombatAircraftBuilder.cpp
+CombatAircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/CombatAircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/CombatAircraftBuilder.h
+AircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Director.cpp
+Director.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Director.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Director.h
+AircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/HelicopterBuilder.cpp
+HelicopterBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/HelicopterBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/HelicopterBuilder.h
+AircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Interface.cpp
+Interface.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Interface.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Interface.h
+Director.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Director.h
+PassengerAircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/PassengerAircraftBuilder.h
+CombatAircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/CombatAircraftBuilder.h
+HelicopterBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/HelicopterBuilder.h
+QuadcopterBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/QuadcopterBuilder.h
+Aircraft.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Aircraft.h
+LoadSave.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/LoadSave.h
+algorithm
+-
+set
+-
+iterator
+-
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/LoadSave.cpp
+LoadSave.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/LoadSave.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/LoadSave.h
+Aircraft.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Aircraft.h
+boost/property_tree/ptree.hpp
+-
+boost/property_tree/xml_parser.hpp
+-
+set
+-
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/PassengerAircraftBuilder.cpp
+PassengerAircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/PassengerAircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/PassengerAircraftBuilder.h
+AircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/QuadcopterBuilder.cpp
+QuadcopterBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/QuadcopterBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/QuadcopterBuilder.h
+AircraftBuilder.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/AircraftBuilder.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Validator.cpp
+Validator.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Validator.h
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Validator.h
+iostream
+-
+exception
+-
+
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/main.cpp
+Interface.h
+/home/metalleg/Local disk/Documents/Study/CLionProjects/TechProgKursach/Interface.h
+

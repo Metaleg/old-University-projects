@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/rts_nastya_1.dir/main.c.o  -o rts_nastya_1 

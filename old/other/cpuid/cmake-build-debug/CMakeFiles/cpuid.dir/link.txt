@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cpuid.dir/main.c.o  -o cpuid 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/CLionProjects/madgwick/cmake-build-debug/madgwick.h
+math.h
+-
+
+/home/metalleg/CLionProjects/madgwick/main.cpp
+iostream
+-
+random
+-
+cmake-build-debug/madgwick.h
+/home/metalleg/CLionProjects/madgwick/cmake-build-debug/madgwick.h
+

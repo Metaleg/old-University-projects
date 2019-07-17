@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/daemon_input/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+sys/wait.h
+-
+sys/un.h
+-
+pthread.h
+-
+time.h
+/run/media/metalleg/Local disk/Documents/CLionProjects/daemon_input/time.h
+/run/media/metalleg/Local disk/Documents/CLionProjects/linux_daemon/work_with_config.c
+-
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/linux_daemon/work_with_config.c
+work_with_config.h
+/run/media/metalleg/Local disk/Documents/CLionProjects/linux_daemon/work_with_config.h
+
+/run/media/metalleg/Local disk/Documents/CLionProjects/linux_daemon/work_with_config.h
+unistd.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

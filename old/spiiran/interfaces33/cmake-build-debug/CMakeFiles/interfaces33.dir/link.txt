@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/interfaces33.dir/imu.cpp.o CMakeFiles/interfaces33.dir/main.cpp.o  -o interfaces33 

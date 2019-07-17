@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mpi.dir/main.cpp.o  -o mpi 
